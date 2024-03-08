@@ -26,6 +26,7 @@
 3. Install dependencies using `npm install` or `yarn install`.
 4. Start the development server with `npm run dev` or `yarn dev`.
 5. Open your browser and go to `http://localhost:5173` to play the game.
+6. Or you can play directly at `[Tic-Tac-Toe Game](https://shubhamchaurasia22.github.io/tic-tac-toe-game/)`.
 
 ## ⭐️ Gameplay
 - Players take turns clicking on the game board to place their "X" or "O" symbol.
