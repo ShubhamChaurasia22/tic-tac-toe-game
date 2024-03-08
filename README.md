@@ -47,7 +47,7 @@
 <p align="center">
   <img src="./public/screenshort1.jpg" alt="Gameplay Screenshot 1" width="400" />
 </p>
-<p>
+<p align="center">
   <img src="./public/screenshot2.jpg" alt="Gameplay Screenshot 2" width="400" />
 </p>
 
