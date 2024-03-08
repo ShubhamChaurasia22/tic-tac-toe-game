@@ -131,9 +131,10 @@ ol {
   margin-top: 1.5rem;
 }
 
-.css-sox5kk-MuiBackdrop-root {
+.css-sox5kk-MuiBackdrop-root,
+.css-um19vb {
   background-color: rgba(0, 0, 0, 0.9) !important;
-  z-index: 999;
+  z-index: 999 !important;
 }
 
 .gameResult {
