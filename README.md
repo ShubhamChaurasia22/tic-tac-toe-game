@@ -9,9 +9,9 @@
 
 <!-- Video Screenshot with Link -->
 <p align="center">
-    <video width="600" controls muted loop>
-        <source src="./public/demo.mp4" type="video/mp4">
-    </video>
+  <a href="./public/demo.mp4" target="_blank">
+    <img src="./public/thumbnail.jpg" alt="Tic Tac Toe Video" width="600" />
+  </a>
 </p>
 
 ## Features
