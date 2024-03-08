@@ -46,7 +46,7 @@
 ## 📷 Screenshots
 <p align="center">
   <img src="./public/screenshort1.jpg" alt="Gameplay Screenshot 1" width="400" />
-  <img src="./public/screenshort2.jpg" alt="Gameplay Screenshot 2" width="400" />
+  <img src="./public/screenshot2.jpg" alt="Gameplay Screenshot 2" width="400" />
 </p>
 
 ## 🎨 Credits
